@@ -1,6 +1,6 @@
 
 ## [Artificial Intelligence](https://ukb-dt.github.io/ai-types/)
-Five emergent layers—from embodied wisdom to world's raw data
+Five [emergent layers](https://ukb-dt.github.io/fs-dev-00/)—from embodied wisdom to world's raw data
 
 | Layer | Role in Evidence Synthesis |
 |-------|---------------------------|
