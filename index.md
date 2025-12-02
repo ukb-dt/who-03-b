@@ -10,6 +10,6 @@ Five [emergent layers](https://ukb-dt.github.io/fs-dev-00/)—from embodied wisd
 | **[Perception AI](https://ukb-dt.github.io/who-03-rank/)** | Ingests literature across journals, languages, and grey sources   |
 | **[World AI](https://gemini.google.com/app)** | Understands global health patterns, NCDs, TB, etc—the raw environment |
 
-*No standard classification exists → Ours is inspired by the market place* 
+*No standard classification exists → Ours is [inspired](https://ukb-dt.github.io/who-05/) by the market place* 
 
  
